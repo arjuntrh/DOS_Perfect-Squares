@@ -6,4 +6,4 @@ squares. An interesting example is Lucas' Square Pyramid: 1^2 + 2^2 + 3^2 + ....
 
 #### To execute the application:
 
-For example, for the inpute N = 1000000 and k = 4, run the command as: dotnet fsi –langversion:preview proj1.fsx 1000000 4
+For example, for the input N = 1000000 and k = 4, run the command as: dotnet fsi –langversion:preview proj1.fsx 1000000 4
