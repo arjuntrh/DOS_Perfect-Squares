@@ -1,4 +1,4 @@
-# DOS_Perfect-Squares
+# Lucas Square Pyramid Finder (Async)
 
 * An interesting problem in arithmetic with deep implications to elliptic curve theory is the problem of ﬁnding perfect squares that are sums of consecutive
 squares. An interesting example is Lucas' Square Pyramid: 1^2 + 2^2 + 3^2 + .... + 24^2 = 70^2
